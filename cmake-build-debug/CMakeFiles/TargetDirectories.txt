@@ -1,0 +1,3 @@
+C:/Users/ag_fo/Desktop/College/COP3504C/imagescaling/cmake-build-debug/CMakeFiles/scaler.dir
+C:/Users/ag_fo/Desktop/College/COP3504C/imagescaling/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ag_fo/Desktop/College/COP3504C/imagescaling/cmake-build-debug/CMakeFiles/rebuild_cache.dir
